@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TDTPLib", "TDTPLib\TDTPLib.vbproj", "{DFE8A6D3-A2AC-4492-8C1A-437FEEBC9CF8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TDTPLibTest", "TDTPLibTest\TDTPLibTest.vbproj", "{17A21A6E-801F-464D-B4EB-48A3ADB99811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFE8A6D3-A2AC-4492-8C1A-437FEEBC9CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE8A6D3-A2AC-4492-8C1A-437FEEBC9CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE8A6D3-A2AC-4492-8C1A-437FEEBC9CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE8A6D3-A2AC-4492-8C1A-437FEEBC9CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A21A6E-801F-464D-B4EB-48A3ADB99811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A21A6E-801F-464D-B4EB-48A3ADB99811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A21A6E-801F-464D-B4EB-48A3ADB99811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A21A6E-801F-464D-B4EB-48A3ADB99811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40766BD7-323F-47F5-8F92-F5B26F4F57C7}
+	EndGlobalSection
+EndGlobal
